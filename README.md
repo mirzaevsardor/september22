@@ -1,7 +1,7 @@
 ### Steps to run terraform module
 # Please update terraform.tfvars file with your own variable values (profile, region ...)
 
- #Initialize terraform module
+# Initialize terraform module
 terraform init
 
 # Plan terraform module before applying
